@@ -35,3 +35,8 @@ Song mountMoose = new Song("Mount Moose", "The Snazzy Moose");
 mountMoose.howMany(new ArrayList<String>(Arrays.asList("John", "joHN", "carl"))); => 2
 
 Good luck, have fun! :)
+
+
+Name: Carolyn
+
+Partner: Natalie
